@@ -1,0 +1,18 @@
+[
+  {
+    "number": 18,
+    "title": "Does Azure CLI Action has access to GITHUB_WORKSPACE folder?",
+    "html_url": "https://github.com/Azure/cli/issues/18",
+    "labels": [
+      {
+        "id": 2374375809,
+        "node_id": "MDU6TGFiZWwyMzc0Mzc1ODA5",
+        "url": "https://api.github.com/repos/Azure/cli/labels/stale",
+        "name": "stale",
+        "color": "ededed",
+        "default": false,
+        "description": null
+      }
+    ]
+  }
+]

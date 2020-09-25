@@ -1,0 +1,32 @@
+{
+  "status": 200,
+  "url": "https://api.github.com/repos/Azure/arm-deploy/issues?since=Fri%2C%2018%20Sep%202020%2000%3A00%3A00%20GMT&per_page=100",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "connection": "close",
+    "content-length": "2",
+    "content-security-policy": "default-src 'none'",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Fri, 25 Sep 2020 07:04:30 GMT",
+    "etag": "\"43d57c882e45b0a2a46a1bfb0b5febc666117c47a0c7621ddb3ff6aa43a974ba\"",
+    "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+    "server": "GitHub.com",
+    "status": "200 OK",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With",
+    "x-accepted-oauth-scopes": "repo",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-github-media-type": "github.squirrel-girl-preview; format=json, github.inertia-preview; format=json, github.starfox-preview; format=json, github.mockingbird-preview; param=sailor-v-preview; format=json, github.squirrel-girl-preview; format=json, github.inertia-preview; format=json, github.starfox-preview; format=json, github.mockingbird-preview; param=sailor-v-preview; format=json",
+    "x-github-request-id": "0591:3E2A:9A7C628:10A2F83F:5F6D967E",
+    "x-oauth-scopes": "admin:enterprise, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, read:packages, repo, user, workflow, write:discussion, write:packages",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "4982",
+    "x-ratelimit-reset": "1601020962",
+    "x-ratelimit-used": "18",
+    "x-xss-protection": "1; mode=block"
+  },
+  "data": []
+}
