@@ -1,0 +1,147 @@
+[
+  {
+    "number": 8719,
+    "title": "PublishBuildArtifacts should support recursive artifact inclusion",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/8719",
+    "labels": [
+      {
+        "id": 429249870,
+        "node_id": "MDU6TGFiZWw0MjkyNDk4NzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20CrossPlatform",
+        "name": "Area: CrossPlatform",
+        "color": "ff907a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      },
+      {
+        "id": 2055286081,
+        "node_id": "MDU6TGFiZWwyMDU1Mjg2MDgx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/stale",
+        "name": "stale",
+        "color": "f1ff89",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 6899,
+    "title": "Publish Test Result 2.x - Invalid Results File error",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/6899",
+    "labels": [
+      {
+        "id": 429249870,
+        "node_id": "MDU6TGFiZWw0MjkyNDk4NzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20CrossPlatform",
+        "name": "Area: CrossPlatform",
+        "color": "ff907a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      },
+      {
+        "id": 2055286081,
+        "node_id": "MDU6TGFiZWwyMDU1Mjg2MDgx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/stale",
+        "name": "stale",
+        "color": "f1ff89",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 6468,
+    "title": "Add generic artifact type to build",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/6468",
+    "labels": [
+      {
+        "id": 429249870,
+        "node_id": "MDU6TGFiZWw0MjkyNDk4NzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20CrossPlatform",
+        "name": "Area: CrossPlatform",
+        "color": "ff907a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 391088767,
+        "node_id": "MDU6TGFiZWwzOTEwODg3Njc=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Documentation",
+        "name": "Area: Documentation",
+        "color": "c2e0c6",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 391088230,
+        "node_id": "MDU6TGFiZWwzOTEwODgyMzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Release",
+        "name": "Area: Release",
+        "color": "5319e7",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 2055286081,
+        "node_id": "MDU6TGFiZWwyMDU1Mjg2MDgx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/stale",
+        "name": "stale",
+        "color": "f1ff89",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 6191,
+    "title": "Trying to get provisioning profiles from another repository",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/6191",
+    "labels": [
+      {
+        "id": 391088302,
+        "node_id": "MDU6TGFiZWwzOTEwODgzMDI=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Build",
+        "name": "Area: Build",
+        "color": "0e8a16",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      },
+      {
+        "id": 2055286081,
+        "node_id": "MDU6TGFiZWwyMDU1Mjg2MDgx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/stale",
+        "name": "stale",
+        "color": "f1ff89",
+        "default": false,
+        "description": ""
+      }
+    ]
+  }
+]
