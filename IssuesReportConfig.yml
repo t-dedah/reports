@@ -32,7 +32,7 @@ reports:
     timezoneOffset: +5.5
     sections: 
       - name: "repo-issues"
-        targets: ['azure-pipelines-tasks']
+        targets: ['azure-pipelines-tasks' ]
         config: 
           breakdown-by-labels:
             [
@@ -45,30 +45,7 @@ reports:
         config: 
           breakdown-by-labels:
             [
-              "stale",
-              "backlog"
-            ]
-      - name: "repo-issues"
-        targets: ['azure-devops-projects-extensions']
-        config: 
-          breakdown-by-labels:
-            [
-              "stale",
-              "backlog"
-            ]
-      - name: "repo-issues"
-        targets: ['azure-arm-deploy']
-        config: 
-          breakdown-by-labels:
-            [
-              "stale",
-              "backlog"
-            ]
-      - name: "repo-issues"
-        targets: ['azure-cli']
-        config: 
-          breakdown-by-labels:
-            [
+              "default",
               "stale",
               "backlog"
             ]
@@ -77,6 +54,7 @@ reports:
         config: 
           breakdown-by-labels:
             [
+              "default",
               "stale",
               "backlog"
             ]
@@ -85,6 +63,34 @@ reports:
         config: 
           breakdown-by-labels:
             [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['azure-devops-projects-extensions']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['azure-arm-deploy']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['azure-cli']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
               "stale",
               "backlog"
             ]
